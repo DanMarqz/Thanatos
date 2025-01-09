@@ -1,0 +1,1 @@
+# Thanatos is an Auth server maded with Rust
